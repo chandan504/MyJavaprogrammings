@@ -16,6 +16,7 @@ public class SwapNumber {
         y = in.nextInt();
 
         System.out.println("Before Swapping\nx = "+x+"\ny = "+y);
+//
 
         x = x + y;
         y = x - y;

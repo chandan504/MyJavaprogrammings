@@ -1,7 +1,7 @@
 package STRING;
 
 public class Duplicate {
-
+//july 18 commit
     public static void main(String[] args) {
         String str= "beautiful bird";
         char[] charry= str.toCharArray();
